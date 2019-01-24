@@ -1,5 +1,9 @@
 ### Week 4
 
+- Opinionated guidelines for large nx angular projects  
+https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/  
+Good tips on structuring an Angular application.
+
 - The differences between ElementRef, TemplateRef, ViewContainerRef | Ashnita Bali & Marcin Ryzycki  
 https://www.youtube.com/watch?v=uQqp1z7FpJY  
 The talk gives an overview about the deeper templating constructs of Angular. It's scary ...
