@@ -1,4 +1,7 @@
 ### Week 4
+- MobX for Angular and Ionic Apps  
+https://levelup.gitconnected.com/how-to-manage-state-in-ionic-2-apps-with-mobx-df659de6a8aa  
+An introduction to MobX for Angular developers. Contains also a short comparison to NgRx/Redux.
 
 - Opinionated guidelines for large nx angular projects  
 https://blog.strongbrew.io/opinionated-guidelines-for-large-nx-angular-projects/  
