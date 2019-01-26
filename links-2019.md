@@ -20,11 +20,15 @@ Good tips on structuring an Angular application.
 https://www.youtube.com/watch?v=uQqp1z7FpJY  
 The talk gives an overview about the deeper templating constructs of Angular. It's scary ...
 
+- How to configure Webpack 4 with Angular 7
+https://medium.freecodecamp.org/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471
+Setting up an Angular project without the Angular CLI is difficult. Here is an example.
+
 - Vue Enterprise Boilerplate   
 https://github.com/chrisvfritz/vue-enterprise-boilerplate  
 An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-- Salary comparison for Software Engineers  
+- Salary Comparison for Software Engineers  
 https://www.levels.fyi/SE/Google/Facebook/Microsoft  
 Crazy! According to that numbers, we should all try to go work in the US ...
 
