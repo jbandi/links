@@ -7,12 +7,12 @@ CSS-in-JS is going crazy in teh React ecosystem. Do we really want the crazyness
 ### Week 4
 
 - The TypeScript Tax  
-https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b
-A critical evaluation of the Cost vs. Benefits of TypeScript.
+https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b  
+A critical evaluation of the cost vs. benefits of TypeScript.
 
 - `<lazy-af>` for lazy loading in Angular  
 https://www.npmjs.com/package/@herodevs/lazy-af  
-A felxible way to do lazy loading of modules in Angular iwthout beeing coupled to the router.
+A felxible way to do lazy loading of modules in Angular without being coupled to the router.
 
 - MobX for Angular and Ionic Apps  
 https://levelup.gitconnected.com/how-to-manage-state-in-ionic-2-apps-with-mobx-df659de6a8aa  
