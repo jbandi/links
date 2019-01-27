@@ -1,3 +1,9 @@
+### Week 5
+
+- CSS in JavaScript with Angular  
+https://medium.com/creative-technology-concepts-code/css-in-javascript-with-angular-61da79111804  
+CSS-in-JS is going crazy in teh React ecosystem. Do we really want the crazyness in Angular?
+
 ### Week 4
 
 - The TypeScript Tax  
