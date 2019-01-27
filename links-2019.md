@@ -1,5 +1,9 @@
 ### Week 5
 
+- Detecting "Agile BS"   
+https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF  
+A paper from the Department of Defense, describing the real values of Agile to differenciate projects that just claim to be agile.
+
 - CSS in JavaScript with Angular  
 https://medium.com/creative-technology-concepts-code/css-in-javascript-with-angular-61da79111804  
 CSS-in-JS is going crazy in teh React ecosystem. Do we really want the crazyness in Angular?
