@@ -1,5 +1,9 @@
 ### Week 5
 
+- Micro Frontends – a strive for fully Verticalized Systems (David Leitner)  
+https://www.youtube.com/watch?v=oxVRG71rF3w  
+A great talk about micro frontends. Slides are available [here](https://speakerdeck.com/duffleit/microfrontends-c587441e-d8e7-4883-9e14-c9dfaf8e36e3).
+
 - Detecting "Agile BS"   
 https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF  
 A paper from the Department of Defense, describing the real values of Agile to differenciate projects that just claim to be agile.
@@ -53,6 +57,4 @@ https://twitter.com/allenholub/status/1083845056346243072
 
 ### Week 3
 
-- DevoxxUA 2018: Micro Frontends – a strive for fully Verticalized Systems (David Leitner)  
-https://www.youtube.com/watch?v=oxVRG71rF3w  
-A great talk about micro frontends.
+
