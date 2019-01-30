@@ -1,6 +1,6 @@
 # Talk Submissions:
 
-## Frontent Monoliths: Run if you can!
+## Frontend Monoliths: Run if you can!
 
 The frontend monoliths are here! They arrived with the trend to build modern single page applications. Frameworks like Angular and React boosted the growht of these monoliths.
 
