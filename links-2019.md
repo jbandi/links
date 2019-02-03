@@ -1,5 +1,13 @@
 ### Week 5
 
+- Automated testing of each commit != CI . 
+https://medium.com/@Jakeherringbone/automated-testing-of-each-commit-ci-6f718d93d0da
+A critical reflection about micro-services in regard to continuous integration. Also a good argumentation why relying on API contracts often does not work in the real world.
+
+- The Big List of Naughty Strings  
+https://github.com/minimaxir/big-list-of-naughty-strings  
+A list of strings which have a high probability of causing issues when used as user-input data.
+
 - Micro Frontends – a strive for fully Verticalized Systems (David Leitner)  
 https://www.youtube.com/watch?v=oxVRG71rF3w  
 A great talk about micro frontends. Slides are available [here](https://speakerdeck.com/duffleit/microfrontends-c587441e-d8e7-4883-9e14-c9dfaf8e36e3).
