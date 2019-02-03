@@ -1,4 +1,7 @@
 ### Week 5
+- Why do people prefer TypeScript with most of the JavaScript frameworks?  
+https://www.quora.com/Why-do-people-prefer-TypeScript-with-most-of-the-JavaScript-frameworks/answers/119423108  
+A good summary of the advantages of TypeScript.
 
 - Automated testing of each commit != CI  
 https://medium.com/@Jakeherringbone/automated-testing-of-each-commit-ci-6f718d93d0da   
