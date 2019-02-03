@@ -1,7 +1,7 @@
 ### Week 5
 
-- Automated testing of each commit != CI . 
-https://medium.com/@Jakeherringbone/automated-testing-of-each-commit-ci-6f718d93d0da
+- Automated testing of each commit != CI  
+https://medium.com/@Jakeherringbone/automated-testing-of-each-commit-ci-6f718d93d0da   
 A critical reflection about micro-services in regard to continuous integration. Also a good argumentation why relying on API contracts often does not work in the real world.
 
 - The Big List of Naughty Strings  
