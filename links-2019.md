@@ -21,7 +21,7 @@ A paper from the Department of Defense, describing the real values of Agile to d
 
 - CSS in JavaScript with Angular  
 https://medium.com/creative-technology-concepts-code/css-in-javascript-with-angular-61da79111804  
-CSS-in-JS is going crazy in teh React ecosystem. Do we really want the crazyness in Angular?
+CSS-in-JS is going crazy in the React ecosystem. Do we really want the crazyness in Angular?
 
 ### Week 4
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=uQqp1z7FpJY
 The talk gives an overview about the deeper templating constructs of Angular. It's scary ...
 
 - How to configure Webpack 4 with Angular 7
-https://medium.freecodecamp.org/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471
+https://medium.freecodecamp.org/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471   
 Setting up an Angular project without the Angular CLI is difficult. Here is an example.
 
 - Vue Enterprise Boilerplate   
@@ -65,7 +65,5 @@ An interesting thread on twitter critizising the leaky abstractions of all curre
 - "Agility at scale" is nuts  
 https://twitter.com/allenholub/status/1083845056346243072
 
-
-### Week 3
 
 
