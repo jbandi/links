@@ -1,8 +1,47 @@
+### Week 9
+
+- Adventures in Angular, Episode 225:  
+https://devchat.tv/adv-in-angular/aia-225-data-and-page-content-refresh-patterns-in-angular-with-eyas-sharaiha/  
+Here we have a bunch of Angular experts confessing that RxJS is a major challenge when writing Angular applications, and there is no real guidelines or best practices on how to create reactive applications.
+
 ### Week 8
+
+- Blazor, a new framework for browser-based .NET  
+https://www.youtube.com/watch?v=Qe8UW5543-s  
+I believe WebAssembly will trigger a new wave of frameworks and has the potential to overhaul how we create complex web applications. 
+This has the potential to increase productivity by factors over current frameworks (Angular, React, Vue).
+I think/hope Balzor is just the first of a new generation of frameworks. Similar frameworks outside of .NET will follow.
+I am surprised how mature it already looks in this presentation.  
+However after playing with it, I see that debugging is currently a major blocker.
+
+- Blazor Example:  
+https://lupblazorcalculator.z20.web.core.windows.net/
+
+- Blazor Workshop  
+https://github.com/dotnet-presentations/blazor-workshop. 
+A free tutorial how to build a Blazor app. 
+
+- Blazor Roadmap  
+https://msdn.microsoft.com/en-us/magazine/mt848631.aspx  
+Blazor is part of .NET Core 3 as 'Razor Components' ... however this seems not to be the the client-side runtime based on WebAssembly. It seems they are trying to create a component model that can be used for server- and client-side development ... I hope they are not trying to mix up too much here!
+
+- awesome-blazor  
+https://github.com/AdrienTorris/awesome-blazor  
+A collection of awesome Blazor resources.
+
+- You probably don’t need a single-page application
+https://journal.plausible.io/you-probably-dont-need-a-single-page-app
+
+
+- Turbolinks: An alternative to SPAs?  
 https://github.com/turbolinks/turbolinks/blob/master/README.md
 
-https://www.softwarearchitekt.at/post/2019/01/27/building-angular-elements-with-the-cli.aspx
+- Turbolink Examples:  
+https://pascallaliberte.github.io/stimulus-turbolinks-demo/  
+https://gmaps-turbolinks-demo.herokuapp.com/  
 
+- TSLint is dead, long live ESLint  
+https://medium.com/palantir/tslint-in-2019-1a144c2317a9
 
 
 ### Week 7
